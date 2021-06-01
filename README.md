@@ -5,7 +5,8 @@
 
   <p style="text-align: center;"align="center"><a href="https://github.com/hammyster?tab=repositories"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hammyster&layout=compact&show_icons=true&theme=tokyonight" /></a></p>
   
-  | Projetos | Tags |
+<p style="text-align: center;"align="center">
+| Projetos | Tags |
 | --- | --- |
-| [**Logitech-CVE**](https://github.com/apr3ndi5/Logitech-CVE) | <img src="https://img.shields.io/badge/-GOLang-16bdfa">|
-| [**File Binder**](https://github.com/apr3ndi5/File-Binder) | <img src="https://img.shields.io/badge/-GOLang-16bdfa">|
+| [**Manage Edge App**](https://github.com/hammyster/manage-edge) | <img src="https://img.shields.io/badge/-C%23-blue">|
+</p>
