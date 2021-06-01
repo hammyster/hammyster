@@ -1,9 +1,10 @@
-
+### Hi, I'm Hammy!
 
 <p style="text-align: center;" align="center">
-    ### Hi, I'm Hammy!
-    <img src="https://discord.c99.nl/widget/theme-1/543627625877471252.png" alt="My Discord">
-    
+<img src="https://discord.c99.nl/widget/theme-1/543627625877471252.png" alt="My Discord">
+</p>
+
+<p style="text-align: center;" align="center">
     <a href="https://github.com/hammyster?tab=repositories"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hammyster&layout=compact&show_icons=true&theme=tokyonight" /></a>
 </p>
 
