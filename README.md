@@ -21,6 +21,13 @@
                     <a target="_blank" rel="noopener noreferrer" href="https://github.com/hammyster/manage-edge"><img src="https://img.shields.io/badge/-C%23-blue" data-canonical-src="https://img.shields.io/badge/-C%23-blue" style="max-width:100%;"></a>
                 </td>
             </tr>
+            
+            <tr>
+                <td><a href="https://github.com/hammyster/manage-edge"><strong>Auto Potion MuOnline</strong></a></td>
+                <td>
+                    <a target="_blank" rel="noopener noreferrer" href="https://github.com/hammyster/autopotion/"><img src="https://img.shields.io/badge/-C%23-blue" data-canonical-src="https://img.shields.io/badge/-C%23-blue" style="max-width:100%;"></a>
+                </td>
+            </tr>
         </tbody>
     </table>
 </p>
