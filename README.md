@@ -17,7 +17,6 @@
 <td><a href="https://github.com/apr3ndi5/Logitech-CVE"><strong>Manage Edge App</strong></a></td>
 <td><a target="_blank" rel="noopener noreferrer" href="https://github.com/hammyster/manage-edge"><img src="https://img.shields.io/badge/-C%23-blue" data-canonical-src="https://img.shields.io/badge/-C%23-blue" style="max-width:100%;"></a></td>
 </tr>
-<tr>
 </tbody>
 </table>
 
