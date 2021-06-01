@@ -10,7 +10,7 @@
     <table>
         <thead>
             <tr>
-                <th>Projetos</th>
+                <th>Projects</th>
                 <th>Tags</th>
             </tr>
         </thead>
