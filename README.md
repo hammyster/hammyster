@@ -1,2 +1,10 @@
-<a href="https://discord.bio/p/hammyster" target="_blank"><img width="22px" src="https://logodownload.org/wp-content/uploads/2017/11/discord-logo-icone.png"></img></a> - <a style="font-size: 33px">hammy.CB#1416</a>
- 
+# Hello there!
+##
+I am Hello there! A student who has been practicing Front-End and Back-End Development for 2 years. Basically a complete newbie trying to learn Web Development/Software Development in general.
+## Languages/Frameworks I'm learning:
+[![](https://skillicons.dev/icons?i=html,css,tailwind,js,nodejs,php,lua,postgres,mysql,mongodb)](#)
+## Contact:
+
+[![](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://dsc.bio/hammyster)
+[![](https://img.shields.io/badge/DeviantArt-05CC47?style=for-the-badge&logo=deviantart&logoColor=white)](https://www.deviantart.com/r4vox)
+[![](https://img.shields.io/badge/Myanimelist-2E51A2?style=for-the-badge&logo=myanimelist&logoColor=white)](https://myanimelist.net/profile/r4vox?q=r4vox&cat=user)
