@@ -1,6 +1,6 @@
 # Hello there!
 ##
-I am Hello there! A student who has been practicing Front-End and Back-End Development for 2 years. Basically a complete newbie trying to learn Web Development/Software Development in general.
+I am hammy! A student who has been practicing Front-End and Back-End Development for 2 years. Basically a complete newbie trying to learn Web Development/Software Development in general.
 ## Languages/Frameworks I'm learning:
 [![](https://skillicons.dev/icons?i=html,css,tailwind,js,nodejs,php,lua,postgres,mysql,mongodb)](#)
 ## Contact:
