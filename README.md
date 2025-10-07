@@ -2,7 +2,7 @@
 ##
 I am hammy! A student who has been practicing Front-End and Back-End Development for 2 years. Basically a complete newbie trying to learn Web Development/Software Development in general.
 
-I'm 20 years old, I like animes and listen to music, currently I'm focusing on NodeJS!
+I'm 22 years old, I like animes and listen to music, currently I'm focusing on NodeJS!
 ## Languages/Frameworks I'm learning:
 [![](https://skillicons.dev/icons?i=html,css,tailwind,js,nodejs,php,lua,postgres,mysql,mongodb)](#)
 ## Contact:
