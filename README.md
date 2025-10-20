@@ -21,13 +21,6 @@ Sou estudante e desenvolvedor **Back-End**. Tenho 22 anos e estou mergulhando no
 - [manage-edge](https://github.com/hammyster/manage-edge) – Gerenciador de contas da Point Blank totalmente controlado pelo administrador.
 
 ---
-
-## 📊 Estatísticas do GitHub
-
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=hammyster&show_icons=true&theme=radical)
-
----
-
 ## 📫 Como me encontrar
 
 [![](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://dsc.bio/hammyster)
