@@ -28,4 +28,4 @@ Sou estudante e desenvolvedor **Back-End**. Tenho 22 anos e estou mergulhando no
 [![](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://dsc.bio/hammyster) [![](https://img.shields.io/badge/DeviantArt-05CC47?style=for-the-badge&logo=deviantart&logoColor=white)](https://www.deviantart.com/r4vox) [![](https://img.shields.io/badge/Myanimelist-2E51A2?style=for-the-badge&logo=myanimelist&logoColor=white)](https://myanimelist.net/profile/r4vox?q=r4vox&cat=user) [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adrian-oliveira-901360389?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 ---
 
-> "O objetivo de toda a vida é a morte." – 
+> "O objetivo de toda a vida é a morte." 
