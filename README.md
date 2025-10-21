@@ -1,10 +1,8 @@
 # hammyhammy 
 
-Sou estudante e desenvolvedor **Back-End**. Tenho 22 anos e estou mergulhando no mundo do **JavaScript**. Quando não estou codificando, gosto de assistir animes e ouvir música.
+Me chamo Adrian ou hammy e sou estudante e desenvolvedor. Tenho 23 anos e estou mergulhando no mundo do **JavaScript**. Quando não estou codificando, gosto de assistir animes, motos e ouvir música.
 
 ---
-
-## 🚀 Tecnologias e Competências
 ## 🚀 Tecnologias
 
 - **Linguagens:** JavaScript, TypeScript, HTML, CSS, C#
@@ -15,6 +13,15 @@ Sou estudante e desenvolvedor **Back-End**. Tenho 22 anos e estou mergulhando no
 - **Design e Criação Visual:** Adobe Photoshop, Figma, Canva
 
 ---
+### 🧠 Outras Competências
+
+- Desenvolvimento Full Stack (Front + Back-End)
+- Criação e integração de APIs RESTful
+- Arquitetura e boas práticas de código
+- Versionamento com Git e GitHub
+- UI/UX Design e responsividade
+- Documentação técnica e branding pessoal
+
 ## 📂 Projetos em Destaque
 
 - [CoinWatch](https://github.com/hammyster/CoinWatch) – Sistema de monitoramento de moedas usando APIs, com interface moderna e responsiva.  
