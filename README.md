@@ -6,11 +6,11 @@ Sou estudante e desenvolvedor **Back-End**. Tenho 22 anos e estou mergulhando no
 
 ## 🚀 Tecnologias
 
-- **Linguagens:** JavaScript, HTML, CSS, TypeScript  
-- **Frameworks/Bibliotecas Front-End:** React, Vue.js, Svelte, Tailwind CSS, Bootstrap  
-- **Frameworks/Bibliotecas Back-End:** Node.js, Express, NestJS, Fastify  
+- **Linguagens:** JavaScript, TypeScript, HTML, CSS, C#
+- **Frameworks/Bibliotecas Front-End:** React, Vue.js, Svelte, Tailwind CSS, Bootstrap
+- **Frameworks/Bibliotecas Back-End:** Node.js, Express, NestJS, Fastify, .NET
 - **Banco de Dados:** MySQL, MongoDB, PostgreSQL  
-- **Ferramentas e DevOps:** Git, GitHub, Docker, VS Code, Postman, Zed
+- **Ferramentas e DevOps:** Git, GitHub, Docker, VS Code, Postman, Zed, PostgreSQL
 
 ---
 
