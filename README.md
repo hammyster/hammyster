@@ -21,6 +21,7 @@ Me chamo Adrian ou hammy e sou estudante e desenvolvedor. Tenho 23 anos e estou 
 - Versionamento com Git e GitHub
 - UI/UX Design e responsividade
 - Documentação técnica e branding pessoal
+---
 
 ## 📂 Projetos em Destaque
 
