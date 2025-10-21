@@ -11,6 +11,7 @@ Sou estudante e desenvolvedor **Back-End**. Tenho 22 anos e estou mergulhando no
 - **Frameworks/Bibliotecas Back-End:** Node.js, Express, NestJS, Fastify, .NET
 - **Banco de Dados:** MySQL, MongoDB, PostgreSQL  
 - **Ferramentas e DevOps:** Git, GitHub, Docker, VS Code, Postman, Zed, PostgreSQL
+- **Design e Criação Visual:** Adobe Photoshop, Figma, Canva
 
 ---
 
